@@ -1,0 +1,27 @@
+{
+    "home": "home",
+    "definitions": "definições",
+    "submit": "enviar",
+    "is a deductive reasoning tool": "é uma ferramenta de raciocínio dedutivo",
+    "example": "exemplo",
+    "context": "contexto",
+    "argument": "argumento",
+    "language": "linguagem",
+    "dialect": "dialeto",
+    "observer": "observador",
+    "therefore": "sendo assim",
+    "are": "são",
+    "are not": "não são",
+    "all": "todo",
+    "some": "algum",
+    "no": "não",
+    "argument form": "formulário do argumento",
+    "preview": "pré-visualizar",
+    "new argument": "novo argumento",
+    "share": "compartilhar",
+    "categorical proposition": "proporção categórica",
+  
+    "categorical proposition | definition": "Em lógica, proporção categórica é uma proposição que afirma ou nega que, todo ou algum dos membros de uma categoria está incluso em outra.",
+  
+    "categorical proposition | example": "exemplo: todo humano é mortal"
+}
