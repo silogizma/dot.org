@@ -1,0 +1,29 @@
+{ 
+ 'home': 'inicio',
+  'definitions': 'definiciones',
+  'submit': 'enviar',
+  'is a deductive reasoning tool': 'es una herramienta de razonamiento deductivo',
+  'example': 'ejemplo',
+  'context': 'contexto',
+  'argument': 'argumento',
+  'language': 'idioma',
+  'dialect': 'dialecto',
+  'observer': 'observador',
+  'therefore': 'por lo tanto',
+  'are': 'son:',
+  'are not': 'no son:',
+  'all': 'todos',
+  'some': 'algunos',
+  'no': 'no',
+  'argument form': 'forma de argumento',
+  'preview': 'vista previa',
+  'new argument': 'nuevo argumento',
+  'share': 'compartir',
+  'categorical proposition': 'proposición categórica',
+
+  'categorical proposition | definition': `
+    En lógica, una proposición categórica es una proposición
+    que afirma o niega que todo o parte
+    de los elementos de una categoría
+    están incluidos en otra.'
+  }
