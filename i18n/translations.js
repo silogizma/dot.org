@@ -29,6 +29,8 @@ const tr = {
   `
 };
 
+
+
 const en = {
   "categorical proposition | definition": `
     In logic, a categorical proposition is a proposition
