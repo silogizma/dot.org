@@ -29,6 +29,30 @@ const tr = {
   `,
 };
 
+const se = {
+  'home': 'hem',
+  'definitions': 'definitioner',
+  'submit': 'lämna in',
+  'is a deductive reasoning tool': 'är ett deduktivt resonemangsverktyg',
+  'example': 'exempel',
+  'context': 'sammanhang',
+  'argument': 'argument',
+  'language': 'språk',
+  'dialect': 'dialekt',
+  'observer': 'oserverare',
+  'therefore': 'därför',
+  'are': 'är',
+  'are not': 'är inte',
+  'all': 'alla',
+  'some': 'några',
+  'no': 'nej',
+  'argument form': 'argumenterande format',
+  'preview': 'förhandsvisning',
+  'new argument': 'nytt argument',
+  'share': 'dela',
+  'categorical proposition': 'kategorisk proposition',
+};
+
 const en = {
   'categorical proposition | definition': `
     In logic, a categorical proposition is a proposition
