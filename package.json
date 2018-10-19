@@ -1,13 +1,13 @@
 {
-  "name": "storytelling",
+  "name": "therefore",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "@zeit/next-css": "^0.1.4",
+    "@zeit/next-css": "^1.0.1",
     "babel-plugin-inline-react-svg": "^0.5.2",
-    "classnames": "^2.2.5",
-    "next": "^5.0.0",
+    "classcat": "^3.2.3",
+    "next": "^7.0.2",
     "parse-svg-path": "^0.1.2",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
@@ -19,12 +19,27 @@
     "build": "next build",
     "export": "next export",
     "start": "next start",
-    "test": "jest"
+    "test": "jest",
+    "format": "prettier --write **/*.js"
   },
   "devDependencies": {
     "babel-core": "^6.26.3",
     "babel-jest": "^23.6.0",
     "jest": "^23.6.0",
     "regenerator-runtime": "^0.12.1"
+    "husky": "^1.1.2",
+    "lint-staged": "^7.3.0",
+    "prettier": "^1.14.3"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "*.js": [
+      "npm run format",
+      "git add"
+    ]
   }
 }
