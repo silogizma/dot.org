@@ -18,8 +18,8 @@ In old-french silogisme, greek συλλογισμός, latin syllogismos.
 
 See the following resources:
 
- - <https://en.wikipedia.org/Categorical_proposition>
- - <https://en.wikipedia.org/Syllogism>
+ - <https://en.wikipedia.org/wiki/Categorical_proposition>
+ - <https://en.wikipedia.org/wiki/Syllogism>
 
 A running instance is available on http://silogizma.org
 
